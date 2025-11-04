@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Pokedex from "./zadanie_dom1/komponenty/Pokedex";
+import Pudelka from "./zadanie3/Pudelka";
+import Table from "./zadanie_dom2/Table";
 
 
 
@@ -11,7 +12,7 @@ function App() {
     
       
       <div >
-      <Pokedex />
+      <Pudelka />
       </div> 
 
   )
